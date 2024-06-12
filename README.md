@@ -1,2 +1,2 @@
-# teamon
+# TeamOn
 "TeamOn" team project
